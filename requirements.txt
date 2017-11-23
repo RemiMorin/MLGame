@@ -1,0 +1,6 @@
+Pillow
+python-resize-image
+pandas
+pygame
+keras
+tensorflow
